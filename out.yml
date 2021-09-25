@@ -1,0 +1,2965 @@
+深圳:
+  - poiId: 75869
+    relativePosition: 1
+    businessId: 2778
+    zoneName: "华侨城"
+    poiName: "世界之窗"
+    commentCount: 27427
+    commentScore: 4.4
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    sightLevelStr: "5A"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/350r180000014u9yq3222.jpg"
+    distanceStr: "距市中心8.8km"
+    tagNameList:
+      - "亲子同乐"
+      - "游乐场"
+    otherTagList:
+      - type: "appointment"
+        name: "需提前预约"
+        code: "appointment"
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/2778.html?isHideNavBar=YES"
+    displayField: "华侨城"
+    marketPrice: 100
+    price: 85
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "看全球名胜缩影环游世界"
+    sightCategoryInfo: "华南乐园景点榜第6名"
+    hasVideo: true
+    childrenSightList:
+      - "世界之窗-阿尔卑斯冰雪世界"
+      - "重返侏罗纪"
+      - "飞跃美利坚"
+      - "亚马逊丛林穿梭"
+      - "世界之窗-印加迷城攀岩场"
+      - "金字塔探秘"
+      - "穿越欧罗巴"
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.540746
+      longitude: 113.979399
+    pkgposition: 1
+    pagenumber: 1
+    position: "22.534641,113.97296"
+  - poiId: 79101
+    relativePosition: 2
+    businessId: 13720
+    zoneName: "华侨城"
+    poiName: "深圳欢乐谷"
+    commentCount: 13725
+    commentScore: 4.5
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    sightLevelStr: "5A"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/350r1a00000192c4rB246.jpg"
+    distanceStr: "距市中心8.0km"
+    tagNameList:
+      - "亲子同乐"
+      - "游乐场"
+    otherTagList:
+      - type: "appointment"
+        name: "需提前预约"
+        code: "appointment"
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/13720.html?isHideNavBar=YES"
+    displayField: "华侨城"
+    marketPrice: 120
+    price: 85
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "丰富多彩的水陆游乐项目"
+    sightCategoryInfo: "华南乐园景点榜第9名"
+    hasVideo: true
+    childrenSightList:
+      - "玛雅水公园"
+      - "冰雪世界"
+      - "深圳欢乐谷香格里拉雪域"
+      - "飓风湾"
+      - "冒险山"
+      - "魔幻城堡"
+      - "阳光海岸"
+      - "西班牙广场"
+      - "青蛙跳"
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.548012
+      longitude: 113.986939
+    pkgposition: 2
+    pagenumber: 1
+    position: "22.541652,113.980509"
+  - poiId: 83051
+    relativePosition: 3
+    businessId: 50102
+    zoneName: "大小梅沙/东部华侨城"
+    poiName: "东部华侨城"
+    commentCount: 16275
+    commentScore: 4.5
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    sightLevelStr: "4A"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/10031f000001gs0k863F3.jpg"
+    distanceStr: "距市中心25.4km"
+    tagNameList:
+      - "亲子同乐"
+      - "游乐场"
+    otherTagList:
+      - type: "appointment"
+        name: "需提前预约"
+        code: "appointment"
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/50102.html?isHideNavBar=YES"
+    displayField: "大小梅沙/东部华侨城"
+    priceType: "5"
+    priceTypeDesc: ""
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "刺激游乐项目融合自然风光"
+    sightCategoryInfo: "华南乐园景点榜第5名"
+    hasVideo: true
+    childrenSightList:
+      - "东部华侨城直升机体验"
+      - "云宵飞轮"
+      - "氨气球"
+      - "星光游乐园豪华转马"
+      - "缆山一号线"
+      - "云海谷会员球场"
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.632382
+      longitude: 114.294207
+    pkgposition: 3
+    pagenumber: 1
+    position: "22.624511,114.2905"
+  - poiId: 76828
+    relativePosition: 4
+    businessId: 6037
+    zoneName: "大学城/西丽动物园"
+    poiName: "深圳野生动物园"
+    commentCount: 9111
+    commentScore: 4.4
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    sightLevelStr: "4A"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100n080000003itjd5D5C.jpg"
+    distanceStr: "距市中心10.8km"
+    tagNameList:
+      - "亲子同乐"
+      - "动物园"
+    otherTagList:
+      - type: "appointment"
+        name: "需提前预约"
+        code: "appointment"
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/6037.html?isHideNavBar=YES"
+    displayField: "大学城/西丽动物园"
+    marketPrice: 240
+    price: 199
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "观赏世界各地珍禽名兽"
+    sightCategoryInfo: "华南乐园景点榜第7名"
+    hasVideo: true
+    childrenSightList:
+      - "调虎离山"
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.602723
+      longitude: 113.97699
+    pkgposition: 4
+    pagenumber: 1
+    position: "22.596301,113.972041"
+  - poiId: 75867
+    relativePosition: 5
+    businessId: 2776
+    zoneName: "华侨城"
+    poiName: "锦绣中华民俗村"
+    commentCount: 10801
+    commentScore: 4.6
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    sightLevelStr: "5A"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/fd/tg/g4/M05/D3/50/CggYHlbmLA6AGOBGAC_LRk_Fo_0382.jpg"
+    distanceStr: "距市中心7.3km"
+    tagNameList:
+      - "亲子同乐"
+      - "游乐场"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/2776.html?isHideNavBar=YES"
+    displayField: "华侨城"
+    marketPrice: 0
+    price: 65
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "中国名胜缩影与民俗表演"
+    sightCategoryInfo: "华南亲子景点榜第3名"
+    hasVideo: true
+    childrenSightList: []
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.537131
+      longitude: 113.995003
+    pkgposition: 5
+    pagenumber: 1
+    position: "22.531061,113.988341"
+  - poiId: 46835160
+    relativePosition: 6
+    businessId: 4336342
+    zoneName: "会展中心/CBD"
+    poiName: "深圳平安金融中心云际观光层"
+    commentCount: 11833
+    commentScore: 4.9
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/010581200087ce9u8C01A.jpg"
+    distanceStr: "距市中心1.1km"
+    tagNameList:
+      - "地标观景"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/4336342.html?isHideNavBar=YES"
+    displayField: "会展中心/CBD"
+    price: 200
+    priceType: "3"
+    priceTypeDesc: "门市价"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "体验悬空观景台鸟瞰深港"
+    hasVideo: true
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.538844
+      longitude: 114.062185
+    pkgposition: 6
+    pagenumber: 1
+    position: "22.533887,114.055429"
+  - poiId: 112647075
+    relativePosition: 7
+    businessId: 112647075
+    zoneName: "宝安商业区"
+    poiName: "湾区之光摩天轮"
+    commentCount: 100
+    commentScore: 4.6
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/0106w120008k00lz1E592.jpg"
+    distanceStr: "距市中心17.5km"
+    tagNameList:
+      - "地标观景"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/112647075.html?isHideNavBar=YES"
+    displayField: "宝安商业区"
+    priceType: "5"
+    priceTypeDesc: ""
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.547685
+      longitude: 113.894094
+    pkgposition: 7
+    pagenumber: 1
+    position: "22.541227,113.887947"
+  - poiId: 111985046
+    relativePosition: 8
+    businessId: 111985046
+    zoneName: "深圳湾口岸/蛇口"
+    poiName: "大湾区一号（港珠澳大桥航线）"
+    commentCount: 31
+    commentScore: 4.2
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/01068120008f1pdckCE9B.jpg"
+    distanceStr: "距市中心17.0km"
+    tagNameList:
+      - "游船观光"
+    otherTagList:
+      - type: "booking"
+        name: "可订明日"
+        code: "TomorrowCanBook"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/111985046.html?isHideNavBar=YES"
+    displayField: "深圳湾口岸/蛇口"
+    priceType: "5"
+    priceTypeDesc: ""
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.474665
+      longitude: 113.919967
+    pkgposition: 8
+    pagenumber: 1
+    position: "22.468616,113.913415"
+  - poiId: 75870
+    relativePosition: 9
+    businessId: 2780
+    zoneName: "大小梅沙/东部华侨城"
+    poiName: "小梅沙"
+    commentCount: 1054
+    commentScore: 4.2
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100w1800000144ykw49F1.jpg"
+    distanceStr: "距市中心28.5km"
+    tagNameList:
+      - "海滨沙滩"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/2780.html?isHideNavBar=YES"
+    displayField: "大小梅沙/东部华侨城"
+    marketPrice: 50
+    price: 48
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "梅沙踏浪海滨休闲"
+    hasVideo: true
+    childrenSightList: []
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.60689
+      longitude: 114.334468
+    pkgposition: 9
+    pagenumber: 1
+    position: "22.600144,114.325693"
+  - poiId: 13551733
+    relativePosition: 10
+    businessId: 1417781
+    zoneName: "葵涌/官湖商圈"
+    poiName: "玫瑰海岸"
+    commentCount: 289
+    commentScore: 4.3
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100w1f000001gw96p82A7.jpg"
+    distanceStr: "距市中心33.7km"
+    tagNameList:
+      - "海滨沙滩"
+    otherTagList:
+      - type: "appointment"
+        name: "需提前预约"
+        code: "appointment"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/1417781.html?isHideNavBar=YES"
+    displayField: "葵涌/官湖商圈"
+    price: 40
+    priceType: "3"
+    priceTypeDesc: "门市价"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "婚纱摄影主题海滩"
+    hasVideo: true
+    childrenSightList: []
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.615927
+      longitude: 114.383865
+    pkgposition: 10
+    pagenumber: 1
+    position: "22.60955,114.376785"
+  - poiId: 95193
+    relativePosition: 11
+    businessId: 133211
+    zoneName: "大小梅沙/东部华侨城"
+    poiName: "东部华侨城大侠谷"
+    commentCount: 2129
+    commentScore: 4.3
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/10021h000001hs3be9A31.jpg"
+    distanceStr: "距市中心26.1km"
+    tagNameList:
+      - "亲子同乐"
+      - "游乐场"
+    otherTagList:
+      - type: "appointment"
+        name: "需提前预约"
+        code: "appointment"
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/133211.html?isHideNavBar=YES"
+    displayField: "大小梅沙/东部华侨城"
+    marketPrice: 200
+    price: 72
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "峡谷中的刺激游乐园"
+    hasVideo: true
+    childrenSightList: []
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.614742
+      longitude: 114.30781
+    pkgposition: 11
+    pagenumber: 1
+    position: "22.611842,114.300534"
+  - poiId: 10559734
+    relativePosition: 12
+    businessId: 142067
+    zoneName: "华侨城"
+    poiName: "欢乐海岸海洋奇梦馆"
+    commentCount: 1429
+    commentScore: 4.2
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100h1f000001grtfx467E.jpg"
+    distanceStr: "距市中心7.3km"
+    tagNameList:
+      - "亲子同乐"
+      - "海洋馆"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/142067.html?isHideNavBar=YES"
+    displayField: "华侨城"
+    marketPrice: 80
+    price: 45
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "色彩斑斓的水母与海狮表演"
+    hasVideo: true
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.531987
+      longitude: 113.994672
+    pkgposition: 12
+    pagenumber: 1
+    position: "22.525459,113.988241"
+  - poiId: 18518772
+    relativePosition: 13
+    businessId: 1676277
+    zoneName: "华侨城"
+    poiName: "世界之窗-阿尔卑斯冰雪世界"
+    commentCount: 428
+    commentScore: 4.3
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/0104u120008b2jhqq4004.jpg"
+    distanceStr: "距市中心8.8km"
+    tagNameList:
+      - "亲子同乐"
+      - "冰雪乐园"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/1676277.html?isHideNavBar=YES"
+    displayField: "华侨城"
+    marketPrice: 60
+    price: 55
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "赏冰雕看冰舞享滑雪"
+    hasVideo: false
+    childrenSightList:
+      - "冰雪世界"
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.540574
+      longitude: 113.97928
+    pkgposition: 13
+    pagenumber: 1
+    position: "22.534377,113.972759"
+  - poiId: 75868
+    relativePosition: 14
+    businessId: 2777
+    zoneName: "深圳湾口岸/蛇口"
+    poiName: "青青世界"
+    commentCount: 1583
+    commentScore: 4.4
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    sightLevelStr: "4A"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/0103h1200087fbp2124E0.jpg"
+    distanceStr: "距市中心16.9km"
+    tagNameList:
+      - "亲子同乐"
+      - "采摘"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/2777.html?isHideNavBar=YES"
+    displayField: "深圳湾口岸/蛇口"
+    marketPrice: 0
+    price: 70
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "城市边缘的“热带雨林”"
+    hasVideo: false
+    childrenSightList: []
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.505076
+      longitude: 113.907639
+    pkgposition: 14
+    pagenumber: 1
+    position: "22.500438,113.900558"
+  - poiId: 78519
+    relativePosition: 15
+    businessId: 11546
+    zoneName: "万象城/京基100"
+    poiName: "地王观光·深港之窗"
+    commentCount: 1596
+    commentScore: 4.3
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/10051f000001gsu9xBA0E.jpg"
+    distanceStr: "距市中心5.4km"
+    tagNameList:
+      - "地标观景"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/11546.html?isHideNavBar=YES"
+    displayField: "万象城/京基100"
+    marketPrice: 80
+    price: 70
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "趣味性主题的高层观光"
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.54878
+      longitude: 114.116522
+    pkgposition: 15
+    pagenumber: 1
+    position: "22.542703,114.110604"
+  - poiId: 82496120
+    relativePosition: 16
+    businessId: 5707501
+    zoneName: "布吉/深圳东站"
+    poiName: "大梦探索乐园"
+    commentCount: 306
+    commentScore: 4.6
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/0103a120008pd8a3y1E59.jpg"
+    distanceStr: "距市中心14.3km"
+    tagNameList:
+      - "亲子同乐"
+      - "游乐场"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/5707501.html?isHideNavBar=YES"
+    displayField: "布吉/深圳东站"
+    marketPrice: 240
+    price: 192
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "寓教于乐 沉浸式体验"
+    hasVideo: true
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.658917
+      longitude: 114.137246
+    pkgposition: 16
+    pagenumber: 1
+    position: "22.652207,114.130716"
+  - poiId: 83270
+    relativePosition: 17
+    businessId: 50571
+    zoneName: "杨梅坑/桔钓沙"
+    poiName: "杨梅坑"
+    commentCount: 500
+    commentScore: 4.4
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/10071f000001h6yowA1FC.jpg"
+    distanceStr: "距市中心52.8km"
+    tagNameList:
+      - "海滨沙滩"
+      - "游山玩水"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/50571.html?isHideNavBar=YES"
+    displayField: "杨梅坑/桔钓沙"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "富有浪漫气息的滨海休闲带"
+    hasVideo: true
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.550779
+      longitude: 114.578274
+    pkgposition: 17
+    pagenumber: 1
+    position: "22.54448,114.571395"
+  - poiId: 10558977
+    relativePosition: 18
+    businessId: 50555
+    zoneName: "较场尾/大鹏所城"
+    poiName: "佳兆业国际乐园"
+    commentCount: 765
+    commentScore: 4.9
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/0101q120008xpo6tn0C88.jpg"
+    distanceStr: "距市中心41.1km"
+    tagNameList:
+      - "海滨沙滩"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/50555.html?isHideNavBar=YES"
+    displayField: "较场尾/大鹏所城"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    hasVideo: true
+    childrenSightList: []
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.576053
+      longitude: 114.463356
+    pkgposition: 18
+    pagenumber: 1
+    position: "22.570629,114.45629"
+  - poiId: 94560231
+    relativePosition: 19
+    businessId: 5711027
+    zoneName: "宝安商业区"
+    poiName: "欢乐港湾"
+    commentCount: 141
+    commentScore: 4.4
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/01045120008jzv66b7F31.jpg"
+    distanceStr: "距市中心17.5km"
+    tagNameList:
+      - "地标观景"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/5711027.html?isHideNavBar=YES"
+    displayField: "宝安商业区"
+    priceType: "5"
+    priceTypeDesc: ""
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    hasVideo: false
+    childrenSightList: []
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.54665
+      longitude: 113.881312
+    pkgposition: 19
+    pagenumber: 1
+    position: "22.543524,113.883921"
+  - poiId: 10762987
+    relativePosition: 20
+    businessId: 1408300
+    zoneName: "华侨城"
+    poiName: "深圳欢乐海岸"
+    commentCount: 980
+    commentScore: 4.5
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100i0s000000hhc3wF713.jpg"
+    distanceStr: "距市中心7.5km"
+    tagNameList:
+      - "街区小镇"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/1408300.html?isHideNavBar=YES"
+    displayField: "华侨城"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "以水为主题的娱乐商圈"
+    hasVideo: true
+    childrenSightList: []
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.529689
+      longitude: 113.994371
+    pkgposition: 20
+    pagenumber: 1
+    position: "22.523421,113.987961"
+  - poiId: 56683113
+    relativePosition: 21
+    businessId: 5052348
+    zoneName: "深圳湾口岸/蛇口"
+    poiName: "海上世界文化艺术中心"
+    commentCount: 66
+    commentScore: 4.3
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100v1f000001h1dlr4BDA.jpg"
+    distanceStr: "距市中心16.1km"
+    tagNameList:
+      - "地标观景"
+      - "特色展馆"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/5052348.html?isHideNavBar=YES"
+    displayField: "深圳湾口岸/蛇口"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "深圳当地必打卡地标"
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.486077
+      longitude: 113.922944
+    pkgposition: 21
+    pagenumber: 2
+    position: "22.48036,113.916907"
+  - poiId: 22663446
+    relativePosition: 22
+    businessId: 1708576
+    zoneName: "布吉/深圳东站"
+    poiName: "甘坑客家小镇"
+    commentCount: 440
+    commentScore: 4.3
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/10031c000001dcdk19FC2.jpg"
+    distanceStr: "距市中心13.6km"
+    tagNameList:
+      - "古镇古村"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/1708576.html?isHideNavBar=YES"
+    displayField: "布吉/深圳东站"
+    marketPrice: 20
+    price: 17
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "客家水乡风情与农作体验"
+    sightCategoryInfo: "华南古镇景点榜第6名"
+    hasVideo: true
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.663821
+      longitude: 114.10953
+    pkgposition: 22
+    pagenumber: 2
+    position: "22.656641,114.103947"
+  - poiId: 10558976
+    relativePosition: 23
+    businessId: 50547
+    zoneName: "东门商业区"
+    poiName: "东门老街"
+    commentCount: 897
+    commentScore: 4.4
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100b1f000001gsoa6993B.jpg"
+    distanceStr: "距市中心6.0km"
+    tagNameList:
+      - "街区小镇"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/50547.html?isHideNavBar=YES"
+    displayField: "东门商业区"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "老牌商业步行街区"
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.550461
+      longitude: 114.122671
+    pkgposition: 23
+    pagenumber: 2
+    position: "22.544107,114.119835"
+  - poiId: 83264
+    relativePosition: 24
+    businessId: 50565
+    zoneName: "东涌/西涌"
+    poiName: "西冲"
+    commentCount: 846
+    commentScore: 4.2
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100u11000000qwofn6977.jpg"
+    distanceStr: "距市中心51.1km"
+    tagNameList:
+      - "海滨沙滩"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/50565.html?isHideNavBar=YES"
+    displayField: "东涌/西涌"
+    priceType: "5"
+    priceTypeDesc: ""
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "原生态海滨浴场"
+    hasVideo: true
+    childrenSightList: []
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.487953
+      longitude: 114.557066
+    pkgposition: 24
+    pagenumber: 2
+    position: "22.47587,114.53247"
+  - poiId: 49186464
+    relativePosition: 25
+    businessId: 4364342
+    zoneName: "宝安商业区"
+    poiName: "哈特曼航空体验馆"
+    commentCount: 7
+    commentScore: 4.9
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/350d16000000zxiie397A.jpg"
+    distanceStr: "距市中心17.6km"
+    tagNameList:
+      - "亲子同乐"
+      - "科技天文馆"
+    otherTagList:
+      - type: "booking"
+        name: "可订明日"
+        code: "TomorrowCanBook"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/4364342.html?isHideNavBar=YES"
+    displayField: "宝安商业区"
+    marketPrice: 0
+    price: 666
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.586442
+      longitude: 113.898367
+    pkgposition: 25
+    pagenumber: 2
+    position: "22.539733,114.082419"
+  - poiId: 10521334
+    relativePosition: 26
+    businessId: 145402
+    poiName: "蛇口"
+    commentCount: 191
+    commentScore: 4.6
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/10050z000000nozzr5F63.jpg"
+    distanceStr: "距市中心16.0km"
+    tagNameList:
+      - "地标观景"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/145402.html?isHideNavBar=YES"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "多功能的对外开放口岸"
+    hasVideo: true
+    childrenSightList: []
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.489321
+      longitude: 113.922707
+    pkgposition: 26
+    pagenumber: 2
+    position: "22.539733,114.082419"
+  - poiId: 34285992
+    relativePosition: 27
+    businessId: 2488908
+    poiName: "深圳天空之城"
+    commentCount: 5
+    commentScore: 5
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100w1f000001gw985C4E8.jpg"
+    distanceStr: "距市中心9.7km"
+    tagNameList:
+      - "亲子同乐"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/2488908.html?isHideNavBar=YES"
+    priceType: "5"
+    priceTypeDesc: ""
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "学习专业的自然知识"
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.562339
+      longitude: 113.97147
+    pkgposition: 27
+    pagenumber: 2
+    position: "22.709452,113.806642"
+  - poiId: 69450346
+    relativePosition: 28
+    businessId: 69450346
+    zoneName: "大小梅沙/东部华侨城"
+    poiName: "大梅沙海滩"
+    commentCount: 40
+    commentScore: 4.8
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/0100u120008hstyrdE7CC.jpg"
+    distanceStr: "距市中心26.4km"
+    tagNameList:
+      - "海滨沙滩"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/69450346.html?isHideNavBar=YES"
+    displayField: "大小梅沙/东部华侨城"
+    priceType: "6"
+    priceTypeDesc: "暂无报价"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    hasVideo: true
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.598815
+      longitude: 114.315721
+    pkgposition: 28
+    pagenumber: 2
+    position: "22.592611,114.30871"
+  - poiId: 61942734
+    relativePosition: 29
+    businessId: 5544499
+    poiName: "深圳失恋博物馆（东门老街旗舰店）"
+    commentCount: 27
+    commentScore: 4.4
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/0302p12000822v7axE95F.jpg"
+    distanceStr: "距市中心6.3km"
+    tagNameList:
+      - "特色展馆"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/5544499.html?isHideNavBar=YES"
+    marketPrice: 0
+    price: 39
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "设有星空房"
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.551553
+      longitude: 114.125424
+    pkgposition: 29
+    pagenumber: 2
+    position: "22.545102,114.119035"
+  - poiId: 75873
+    relativePosition: 30
+    businessId: 2783
+    zoneName: "罗湖体育馆/梧桐山风景区"
+    poiName: "仙湖植物园"
+    commentCount: 577
+    commentScore: 4.4
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    sightLevelStr: "4A"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100e1f000001gt2ds8EED.jpg"
+    distanceStr: "距市中心12.7km"
+    tagNameList:
+      - "植物园"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/2783.html?isHideNavBar=YES"
+    displayField: "罗湖体育馆/梧桐山风景区"
+    priceType: "5"
+    priceTypeDesc: ""
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "观赏多样植物并参观弘法寺"
+    sightCategoryInfo: "华南网红景点榜第4名"
+    hasVideo: true
+    childrenSightList: []
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.583562
+      longitude: 114.181318
+    pkgposition: 30
+    pagenumber: 2
+    position: "22.576771,114.17459"
+  - poiId: 18119222
+    relativePosition: 31
+    businessId: 1508177
+    zoneName: "华侨城"
+    poiName: "深圳湾公园"
+    commentCount: 464
+    commentScore: 4.6
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/10040z000000nli7b4ECC.jpg"
+    distanceStr: "距市中心6.7km"
+    tagNameList:
+      - "城市公园"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/1508177.html?isHideNavBar=YES"
+    displayField: "华侨城"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "与香港对望的滨海休闲带"
+    hasVideo: true
+    childrenSightList: []
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.52837
+      longitude: 114.003481
+    pkgposition: 31
+    pagenumber: 2
+    position: "22.50409,113.95311"
+  - poiId: 83274
+    relativePosition: 32
+    businessId: 50575
+    zoneName: "观澜"
+    poiName: "观澜山水田园文化园"
+    commentCount: 1293
+    commentScore: 4
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    sightLevelStr: "4A"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/0103b120008ytpb5rE334.jpg"
+    distanceStr: "距市中心19.7km"
+    tagNameList:
+      - "亲子同乐"
+      - "度假村"
+    otherTagList:
+      - type: "booking"
+        name: "可订明日"
+        code: "TomorrowCanBook"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/50575.html?isHideNavBar=YES"
+    displayField: "观澜"
+    marketPrice: 118
+    price: 88
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "体验多样化田园生活"
+    hasVideo: false
+    childrenSightList: []
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.720384
+      longitude: 114.113827
+    pkgposition: 32
+    pagenumber: 2
+    position: "22.71431,114.10727"
+  - poiId: 18097342
+    relativePosition: 33
+    businessId: 1493491
+    zoneName: "华侨城"
+    poiName: "华侨城创意文化园"
+    commentCount: 277
+    commentScore: 4.5
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100j1a0000019ubehCDE0.jpg"
+    distanceStr: "距市中心6.7km"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/1493491.html?isHideNavBar=YES"
+    displayField: "华侨城"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "前卫艺术空间与创意市集"
+    hasVideo: true
+    childrenSightList: []
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.543649
+      longitude: 113.99986
+    pkgposition: 33
+    pagenumber: 2
+    position: "22.538108,113.993923"
+  - poiId: 56809028
+    relativePosition: 34
+    businessId: 5067277
+    zoneName: "科技园"
+    poiName: "腾讯大厦"
+    commentCount: 43
+    commentScore: 4.7
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100r0z000000nhplt988D.jpg"
+    distanceStr: "距市中心12.7km"
+    tagNameList:
+      - "地标观景"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/5067277.html?isHideNavBar=YES"
+    displayField: "科技园"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "深南大道上的地标"
+    hasVideo: true
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.546103
+      longitude: 113.941079
+    pkgposition: 34
+    pagenumber: 2
+    position: "22.540366,113.934559"
+  - poiId: 18126843
+    relativePosition: 35
+    businessId: 1508470
+    poiName: "较场尾"
+    commentCount: 424
+    commentScore: 4.2
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/fd/tg/g4/M02/C5/19/CggYHlZzrU2ANyEjABSzGT0tGIQ919.jpg"
+    distanceStr: "距市中心46.7km"
+    tagNameList:
+      - "海滨沙滩"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/1508470.html?isHideNavBar=YES"
+    marketPrice: 0
+    price: 820
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "清新海岸线民宿小镇"
+    hasVideo: false
+    childrenSightList: []
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.596202
+      longitude: 114.51552
+    pkgposition: 35
+    pagenumber: 2
+    position: "22.586252,114.509491"
+  - poiId: 76815
+    relativePosition: 36
+    businessId: 5812
+    poiName: "大梅沙海滨公园"
+    commentCount: 1492
+    commentScore: 4.4
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/fd/tg/g3/M09/35/86/CggYGVXDJXeAREhfAEpkQFBfAGo205.jpg"
+    distanceStr: "距市中心26.3km"
+    tagNameList:
+      - "海滨沙滩"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/5812.html?isHideNavBar=YES"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "当地知名的大型海滨浴场"
+    hasVideo: true
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.598129
+      longitude: 114.313955
+    pkgposition: 36
+    pagenumber: 2
+    position: "22.592198,114.308003"
+  - poiId: 13384530
+    relativePosition: 37
+    businessId: 1411764
+    zoneName: "观澜"
+    poiName: "观澜生态水上乐园"
+    commentCount: 262
+    commentScore: 4.1
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/350216000000zdwzp9175.jpg"
+    distanceStr: "距市中心19.6km"
+    tagNameList:
+      - "亲子同乐"
+      - "水乐园"
+    otherTagList:
+      - type: "booking"
+        name: "可订明日"
+        code: "TomorrowCanBook"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/1411764.html?isHideNavBar=YES"
+    displayField: "观澜"
+    marketPrice: 0
+    price: 70
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "适合各年龄层的玩水活动"
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.719405
+      longitude: 114.114779
+    pkgposition: 37
+    pagenumber: 2
+    position: "22.71344,114.108836"
+  - poiId: 31661879
+    relativePosition: 38
+    businessId: 2029836
+    zoneName: "海岸城/后海"
+    poiName: "东亚风情商业步行街"
+    commentCount: 27
+    commentScore: 4.4
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/01025120008ouw59qB36D.jpg"
+    distanceStr: "距市中心14.1km"
+    tagNameList:
+      - "街区小镇"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/2029836.html?isHideNavBar=YES"
+    displayField: "海岸城/后海"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.510856
+      longitude: 113.933591
+    pkgposition: 38
+    pagenumber: 2
+    position: "22.538141,114.025728"
+  - poiId: 83231
+    relativePosition: 39
+    businessId: 50521
+    zoneName: "深圳国际会展中心商圈"
+    poiName: "海上田园"
+    commentCount: 1075
+    commentScore: 4
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    sightLevelStr: "4A"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100f1f000001gq9lg1C91.jpg"
+    distanceStr: "距市中心35.6km"
+    tagNameList:
+      - "亲子同乐"
+      - "度假村"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/50521.html?isHideNavBar=YES"
+    displayField: "深圳国际会展中心商圈"
+    marketPrice: 0
+    price: 55
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "水乡田园与红树林湿地"
+    hasVideo: false
+    childrenSightList: []
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.731941
+      longitude: 113.777756
+    pkgposition: 39
+    pagenumber: 2
+    position: "22.725985,113.77172"
+  - poiId: 10758141
+    relativePosition: 40
+    businessId: 2781
+    zoneName: "光明农场商圈"
+    poiName: "光明农场大观园"
+    commentCount: 1348
+    commentScore: 3.7
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    sightLevelStr: "4A"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100k0g0000007tmp830BA.jpg"
+    distanceStr: "距市中心25.9km"
+    tagNameList:
+      - "亲子同乐"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/2781.html?isHideNavBar=YES"
+    displayField: "光明农场商圈"
+    marketPrice: 80
+    price: 73
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "看奶牛挤奶并采摘瓜果"
+    hasVideo: true
+    childrenSightList: []
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.764237
+      longitude: 113.968991
+    pkgposition: 40
+    pagenumber: 2
+    position: "22.758287,113.962599"
+  - poiId: 48259612
+    relativePosition: 41
+    businessId: 4338365
+    zoneName: "会展中心/CBD"
+    poiName: "深圳图书馆"
+    commentCount: 97
+    commentScore: 4.6
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100p1f000001gpdnj80BB.jpg"
+    distanceStr: "距市中心297m"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/4338365.html?isHideNavBar=YES"
+    displayField: "会展中心/CBD"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "建筑造型颇为精巧"
+    hasVideo: true
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.551335
+      longitude: 114.063816
+    pkgposition: 41
+    pagenumber: 3
+    position: "22.54597,114.05735"
+  - poiId: 10558635
+    relativePosition: 42
+    businessId: 5815
+    zoneName: "深圳湾口岸/蛇口"
+    poiName: "海上世界"
+    commentCount: 575
+    commentScore: 4.5
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/1005060000001vnvn07F9.jpg"
+    distanceStr: "距市中心16.0km"
+    tagNameList:
+      - "游乐游艺"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/5815.html?isHideNavBar=YES"
+    displayField: "深圳湾口岸/蛇口"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "游轮改造的美食娱乐中心"
+    hasVideo: true
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.488788
+      longitude: 113.92358
+    pkgposition: 42
+    pagenumber: 3
+    position: "22.482923,113.916454"
+  - poiId: 18129189
+    relativePosition: 43
+    businessId: 1508731
+    zoneName: "较场尾/大鹏所城"
+    poiName: "大鹏湾游艇"
+    commentCount: 41
+    commentScore: 4.8
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100o0j0000009vt4r72C4.jpg"
+    distanceStr: "距市中心41.9km"
+    tagNameList:
+      - "游船观光"
+      - "游艇帆船"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/1508731.html?isHideNavBar=YES"
+    displayField: "较场尾/大鹏所城"
+    priceType: "5"
+    priceTypeDesc: ""
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "体验特色游艇之旅"
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.568409
+      longitude: 114.47173
+    pkgposition: 43
+    pagenumber: 3
+    position: "22.560502,114.467675"
+  - poiId: 10558975
+    relativePosition: 44
+    businessId: 50545
+    zoneName: "罗湖体育馆/梧桐山风景区"
+    poiName: "梧桐山"
+    commentCount: 469
+    commentScore: 4.6
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100p1f000001gpegbE3E1.jpg"
+    distanceStr: "距市中心16.6km"
+    tagNameList:
+      - "游山玩水"
+      - "赏枫登高"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/50545.html?isHideNavBar=YES"
+    displayField: "罗湖体育馆/梧桐山风景区"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "登高望远视野佳"
+    hasVideo: true
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.5838
+      longitude: 114.221632
+    pkgposition: 44
+    pagenumber: 3
+    position: "22.58979,114.19575"
+  - poiId: 80146
+    relativePosition: 45
+    businessId: 18123
+    zoneName: "科技园"
+    poiName: "南头古城"
+    commentCount: 271
+    commentScore: 4.1
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100d1f000001goub0B316.jpg"
+    distanceStr: "距市中心14.0km"
+    tagNameList:
+      - "古镇古村"
+      - "文化古迹"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/18123.html?isHideNavBar=YES"
+    displayField: "科技园"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "感受昔日海防要塞辉煌"
+    sightCategoryInfo: "华南网红景点榜第16名"
+    hasVideo: true
+    childrenSightList: []
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.5487
+      longitude: 113.92773
+    pkgposition: 45
+    pagenumber: 3
+    position: "22.543758,113.920546"
+  - poiId: 10758938
+    relativePosition: 46
+    businessId: 136089
+    zoneName: "华侨城"
+    poiName: "《深蓝秘境》水域舞台演出"
+    commentCount: 996
+    commentScore: 4.5
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100b190000015urqwC652.jpg"
+    distanceStr: "距市中心7.2km"
+    tagNameList:
+      - "特色演出"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/136089.html?isHideNavBar=YES"
+    displayField: "华侨城"
+    marketPrice: 80
+    price: 70
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: "20:00开园"
+    isFromFavor: false
+    shortFeatures:
+      - "科技感十足的大型水秀演出"
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.528722
+      longitude: 113.997522
+    pkgposition: 46
+    pagenumber: 3
+    position: "22.512903,113.928384"
+  - poiId: 110866069
+    relativePosition: 47
+    businessId: 110866069
+    zoneName: "华侨城"
+    poiName: "深圳观光巴士"
+    commentCount: 3
+    commentScore: 4.7
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/0102u120008nzm2go4B03.jpg"
+    distanceStr: "距市中心7.2km"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/110866069.html?isHideNavBar=YES"
+    displayField: "华侨城"
+    marketPrice: 50
+    price: 50
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "城市观光"
+      - "都市夜景"
+      - "亲子出行"
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.527998
+      longitude: 113.998652
+    pkgposition: 47
+    pagenumber: 3
+    position: "22.522402,113.991441"
+  - poiId: 57154326
+    relativePosition: 48
+    businessId: 5101496
+    zoneName: "坂田"
+    poiName: "云里梦想乐园"
+    commentCount: 74
+    commentScore: 3.4
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100q12000000s13e4C96F.jpg"
+    distanceStr: "距市中心9.8km"
+    tagNameList:
+      - "游乐场"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/5101496.html?isHideNavBar=YES"
+    displayField: "坂田"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.636385
+      longitude: 114.075714
+    pkgposition: 48
+    pagenumber: 3
+    position: "22.630594,114.06922"
+  - poiId: 31677759
+    relativePosition: 49
+    businessId: 2045541
+    zoneName: "深圳湾口岸/蛇口"
+    poiName: "蛇口港珠海游轮"
+    commentCount: 55
+    commentScore: 4.6
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/0104w120008ewrc563F0A.jpg"
+    distanceStr: "距市中心17.0km"
+    tagNameList:
+      - "游船观光"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/2045541.html?isHideNavBar=YES"
+    displayField: "深圳湾口岸/蛇口"
+    priceType: "5"
+    priceTypeDesc: ""
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "游轮的内部干净整洁"
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.474693
+      longitude: 113.919947
+    pkgposition: 49
+    pagenumber: 3
+    position: "22.476606,113.912312"
+  - poiId: 18126823
+    relativePosition: 50
+    businessId: 1508482
+    poiName: "荷兰花卉小镇"
+    commentCount: 362
+    commentScore: 4.3
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100c1f000001gsyw6506C.jpg"
+    distanceStr: "距市中心15.1km"
+    tagNameList:
+      - "街区小镇"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/1508482.html?isHideNavBar=YES"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "荷兰风情建筑与各种花店"
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.549735
+      longitude: 113.91787
+    pkgposition: 50
+    pagenumber: 3
+    position: "22.543929,113.911373"
+  - poiId: 69529792
+    relativePosition: 51
+    businessId: 69529792
+    zoneName: "大小梅沙/东部华侨城"
+    poiName: "大梅沙海滨栈道"
+    commentCount: 6
+    commentScore: 4.7
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/0101p120008alk25w695E.jpg"
+    distanceStr: "距市中心25.9km"
+    tagNameList:
+      - "海滨沙滩"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/69529792.html?isHideNavBar=YES"
+    displayField: "大小梅沙/东部华侨城"
+    priceType: "6"
+    priceTypeDesc: "暂无报价"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.58714
+      longitude: 114.31331
+    pkgposition: 51
+    pagenumber: 3
+    position: "22.583537,114.306635"
+  - poiId: 69537572
+    relativePosition: 52
+    businessId: 69537572
+    zoneName: "东涌/西涌"
+    poiName: "西冲海滩"
+    commentCount: 7
+    commentScore: 3
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/01A4h1200083u73gkB1FF.jpg"
+    distanceStr: "距市中心51.1km"
+    tagNameList:
+      - "海滨沙滩"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/69537572.html?isHideNavBar=YES"
+    displayField: "东涌/西涌"
+    priceType: "6"
+    priceTypeDesc: "暂无报价"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.487974
+      longitude: 114.557069
+    pkgposition: 52
+    pagenumber: 3
+    position: "22.47587,114.53247"
+  - poiId: 10795058
+    relativePosition: 53
+    businessId: 70111
+    poiName: "光明滑草游乐园"
+    commentCount: 263
+    commentScore: 4.1
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/0300w12000867wb9m4789.jpg"
+    distanceStr: "距市中心25.4km"
+    tagNameList:
+      - "亲子同乐"
+      - "游乐场"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/70111.html?isHideNavBar=YES"
+    marketPrice: 0
+    price: 65
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "以滑草项目为主的游乐园"
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.759672
+      longitude: 113.970056
+    pkgposition: 53
+    pagenumber: 3
+    position: "22.754179,113.96323"
+  - poiId: 28615309
+    relativePosition: 54
+    businessId: 1949597
+    zoneName: "较场尾/大鹏所城"
+    poiName: "玫瑰小镇"
+    commentCount: 106
+    commentScore: 4.3
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/0303r120008aucdjmF407.jpg"
+    distanceStr: "距市中心43.8km"
+    tagNameList:
+      - "街区小镇"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/1949597.html?isHideNavBar=YES"
+    displayField: "较场尾/大鹏所城"
+    marketPrice: 50
+    price: 34.9
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "欧式建筑群，网红拍照圣地"
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.592297
+      longitude: 114.487594
+    pkgposition: 54
+    pagenumber: 3
+    position: "22.586383,114.481747"
+  - poiId: 79177149
+    relativePosition: 55
+    businessId: 5701355
+    zoneName: "东门商业区"
+    poiName: "深圳独角兽星空艺术馆"
+    commentCount: 3
+    commentScore: 2.3
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/35041c000001chwui529D.jpg"
+    distanceStr: "距市中心6.2km"
+    tagNameList:
+      - "特色展馆"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/5701355.html?isHideNavBar=YES"
+    displayField: "东门商业区"
+    marketPrice: 0
+    price: 59
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.551682
+      longitude: 114.124635
+    pkgposition: 55
+    pagenumber: 3
+    position: "22.544993,114.118988"
+  - poiId: 83246
+    relativePosition: 56
+    businessId: 50544
+    zoneName: "华侨城"
+    poiName: "红树林"
+    commentCount: 836
+    commentScore: 4.5
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100n1f000001gp9z8E948.jpg"
+    distanceStr: "距市中心6.2km"
+    tagNameList:
+      - "城市公园"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/50544.html?isHideNavBar=YES"
+    displayField: "华侨城"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "沿海骑行观鸟休闲"
+    hasVideo: true
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.529593
+      longitude: 114.007715
+    pkgposition: 56
+    pagenumber: 3
+    position: "22.524396,114.01326"
+  - poiId: 83245
+    relativePosition: 57
+    businessId: 50541
+    zoneName: "莲花山/梅林"
+    poiName: "莲花山公园"
+    commentCount: 0
+    commentScore: 0
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100p1f000001gpcyu860A.jpg"
+    distanceStr: "距市中心1.2km"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/50541.html?isHideNavBar=YES"
+    displayField: "莲花山/梅林"
+    priceType: "5"
+    priceTypeDesc: ""
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "登山休闲俯瞰城景"
+    hasVideo: true
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.559263
+      longitude: 114.065197
+    pkgposition: 57
+    pagenumber: 3
+    position: "22.553612,114.058671"
+  - poiId: 13789819
+    relativePosition: 58
+    businessId: 1468746
+    zoneName: "会展中心/CBD"
+    poiName: "深圳博物馆"
+    commentCount: 0
+    commentScore: 0
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100g0l000000d1ohzFB73.jpg"
+    distanceStr: "距市中心402m"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/1468746.html?isHideNavBar=YES"
+    displayField: "会展中心/CBD"
+    priceType: "5"
+    priceTypeDesc: ""
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "展示深圳历史与南粤文化"
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.549321
+      longitude: 114.068288
+    pkgposition: 58
+    pagenumber: 3
+    position: "22.543582,114.06149"
+  - poiId: 24652182
+    relativePosition: 59
+    businessId: 1832984
+    zoneName: "科技园"
+    poiName: "前海湾"
+    commentCount: 55
+    commentScore: 4.7
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/01A5p12000092uxh09431.jpg"
+    distanceStr: "距市中心16.5km"
+    tagNameList:
+      - "游山玩水"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/1832984.html?isHideNavBar=YES"
+    displayField: "科技园"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.542719
+      longitude: 113.904212
+    pkgposition: 59
+    pagenumber: 3
+    position: "22.537289,113.897936"
+  - poiId: 31669241
+    relativePosition: 60
+    businessId: 2037105
+    zoneName: "华侨城"
+    poiName: "微缩景区客家土楼"
+    commentCount: 38
+    commentScore: 4.6
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100f1d000001el8dg7B2D.jpg"
+    distanceStr: "距市中心6.9km"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/2037105.html?isHideNavBar=YES"
+    displayField: "华侨城"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.535622
+      longitude: 113.998981
+    pkgposition: 60
+    pagenumber: 3
+    position: "22.681304,113.983897"
+  - poiId: 13811116
+    relativePosition: 61
+    businessId: 1474852
+    zoneName: "杨梅坑/桔钓沙"
+    poiName: "大鹏半岛"
+    commentCount: 105
+    commentScore: 4.5
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100a1f000001grmw98E2C.jpg"
+    distanceStr: "距市中心48.7km"
+    tagNameList:
+      - "海滨沙滩"
+      - "游山玩水"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/1474852.html?isHideNavBar=YES"
+    displayField: "杨梅坑/桔钓沙"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "深圳的“黄金海岸”"
+    hasVideo: true
+    childrenSightList: []
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.534605
+      longitude: 114.537453
+    pkgposition: 61
+    pagenumber: 4
+    position: "22.474641,114.49667"
+  - poiId: 10532517
+    relativePosition: 62
+    businessId: 20401
+    poiName: "中英街"
+    commentCount: 651
+    commentScore: 4
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100a0s000000hj6zy4047.jpg"
+    distanceStr: "距市中心17.7km"
+    tagNameList:
+      - "街区小镇"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/20401.html?isHideNavBar=YES"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "有着历史缩影的街道"
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.54929
+      longitude: 114.236187
+    pkgposition: 62
+    pagenumber: 4
+    position: "22.543482,114.230843"
+  - poiId: 78745751
+    relativePosition: 63
+    businessId: 5700615
+    zoneName: "海岸城/后海"
+    poiName: "深圳华润大厦艺术中心"
+    commentCount: 23
+    commentScore: 4.7
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/0103u120008jo6i2uA12F.jpg"
+    distanceStr: "距市中心11.9km"
+    tagNameList:
+      - "特色展馆"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/5700615.html?isHideNavBar=YES"
+    displayField: "海岸城/后海"
+    priceType: "5"
+    priceTypeDesc: ""
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.52058
+      longitude: 113.953216
+    pkgposition: 63
+    pagenumber: 4
+    position: "22.514898,113.946658"
+  - poiId: 115890929
+    relativePosition: 64
+    businessId: 5714940
+    zoneName: "南澳"
+    poiName: "南澳第一沙滩"
+    commentCount: 4
+    commentScore: 5
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/0102f120008wqxbiq4CE7.jpg"
+    distanceStr: "距市中心43.6km"
+    tagNameList:
+      - "海滨沙滩"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/5714940.html?isHideNavBar=YES"
+    displayField: "南澳"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.552902
+      longitude: 114.488023
+    pkgposition: 64
+    pagenumber: 4
+    position: "22.5466,114.48156"
+  - poiId: 31674108
+    relativePosition: 65
+    businessId: 2041908
+    zoneName: "万象城/京基100"
+    poiName: "京基100观光"
+    commentCount: 129
+    commentScore: 4.5
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100a1f000001grje05F3F.jpg"
+    distanceStr: "距市中心5.0km"
+    tagNameList:
+      - "地标观景"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/2041908.html?isHideNavBar=YES"
+    displayField: "万象城/京基100"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "体验极速电梯享繁华市景"
+    hasVideo: true
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.549521
+      longitude: 114.113122
+    pkgposition: 65
+    pagenumber: 4
+    position: "22.543847,114.106561"
+  - poiId: 34372728
+    relativePosition: 66
+    businessId: 2491625
+    zoneName: "盐田区政府/沙头角"
+    poiName: "盐田海滨栈道"
+    commentCount: 79
+    commentScore: 4.7
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100h1f000001grwaiAADF.jpg"
+    distanceStr: "距市中心18.7km"
+    tagNameList:
+      - "海滨沙滩"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/2491625.html?isHideNavBar=YES"
+    displayField: "盐田区政府/沙头角"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "游览大梅沙海滨公园"
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.556321
+      longitude: 114.246224
+    pkgposition: 66
+    pagenumber: 4
+    position: "22.551155,114.240655"
+  - poiId: 25250537
+    relativePosition: 67
+    businessId: 1840139
+    zoneName: "深圳北站地区"
+    poiName: "1980文化创意产业园"
+    commentCount: 91
+    commentScore: 4.2
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100c1f000001gsvaaD408.jpg"
+    distanceStr: "距市中心11.6km"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/1840139.html?isHideNavBar=YES"
+    displayField: "深圳北站地区"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "“深圳设计师之家”"
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.651912
+      longitude: 114.050775
+    pkgposition: 67
+    pagenumber: 4
+    position: "22.646586,114.043455"
+  - poiId: 31671068
+    relativePosition: 68
+    businessId: 2038890
+    zoneName: "会展中心/CBD"
+    poiName: "深圳市当代艺术与城市规划馆"
+    commentCount: 135
+    commentScore: 4.4
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/0106v120006t79kih2579.jpg"
+    distanceStr: "距市中心484m"
+    tagNameList:
+      - "特色展馆"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/2038890.html?isHideNavBar=YES"
+    displayField: "会展中心/CBD"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "建筑外形新颖，充满未来感"
+    hasVideo: true
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.551648
+      longitude: 114.067947
+    pkgposition: 68
+    pagenumber: 4
+    position: "22.545933,114.061678"
+  - poiId: 78907993
+    relativePosition: 69
+    businessId: 5700720
+    zoneName: "深圳湾口岸/蛇口"
+    poiName: "贝尔自然探索中心"
+    commentCount: 45
+    commentScore: 3.9
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/350i1b000001a355yC117.jpg"
+    distanceStr: "距市中心15.8km"
+    tagNameList:
+      - "亲子同乐"
+      - "游乐场"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/5700720.html?isHideNavBar=YES"
+    displayField: "深圳湾口岸/蛇口"
+    marketPrice: 0
+    price: 138
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.489719
+      longitude: 113.924755
+    pkgposition: 69
+    pagenumber: 4
+    position: "22.483972,113.91808"
+  - poiId: 97587301
+    relativePosition: 70
+    businessId: 5712421
+    zoneName: "坂田"
+    poiName: "星高度梦想水世界"
+    commentCount: 5
+    commentScore: 1
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/0102p1200082va5laB0FF.jpg"
+    distanceStr: "距市中心9.9km"
+    tagNameList:
+      - "亲子同乐"
+      - "水乐园"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/5712421.html?isHideNavBar=YES"
+    displayField: "坂田"
+    marketPrice: 129
+    price: 79
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.637461
+      longitude: 114.075476
+    pkgposition: 70
+    pagenumber: 4
+    position: "22.631465,114.068887"
+  - poiId: 83239
+    relativePosition: 71
+    businessId: 50532
+    zoneName: "布吉/深圳东站"
+    poiName: "大芬油画村"
+    commentCount: 352
+    commentScore: 4.3
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100l1f000001gqgdeE5E9.jpg"
+    distanceStr: "距市中心10.9km"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/50532.html?isHideNavBar=YES"
+    displayField: "布吉/深圳东站"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "油画画家的集中地"
+    hasVideo: true
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.615878
+      longitude: 114.142666
+    pkgposition: 71
+    pagenumber: 4
+    position: "22.60987,114.13594"
+  - poiId: 10547737
+    relativePosition: 72
+    businessId: 141484
+    poiName: "金色海岸游艇"
+    commentCount: 393
+    commentScore: 4.4
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100g1f000001gr0j1F783.jpg"
+    distanceStr: "距市中心23.1km"
+    tagNameList:
+      - "游艇帆船"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/141484.html?isHideNavBar=YES"
+    marketPrice: 0
+    price: 100
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "遥望香港诸岛"
+    hasVideo: true
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.590569
+      longitude: 114.284874
+    pkgposition: 72
+    pagenumber: 4
+    position: "22.585174,114.27875"
+  - poiId: 123672727
+    relativePosition: 73
+    businessId: 5715840
+    zoneName: "海岸城/后海"
+    poiName: "深圳不可思议减压馆"
+    commentCount: 7
+    commentScore: 1
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/0104f120008oy3z1a2BFB.jpg"
+    distanceStr: "距市中心12.8km"
+    tagNameList:
+      - "特色展馆"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/5715840.html?isHideNavBar=YES"
+    displayField: "海岸城/后海"
+    marketPrice: 0
+    price: 108
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.522662
+      longitude: 113.94271
+    pkgposition: 73
+    pagenumber: 4
+    position: "22.517486,113.934817"
+  - poiId: 83236
+    relativePosition: 74
+    businessId: 50528
+    poiName: "大鹏所城"
+    commentCount: 473
+    commentScore: 4.3
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100o1f000001gp36q9480.jpg"
+    distanceStr: "距市中心47.2km"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/50528.html?isHideNavBar=YES"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "明清海防军事要塞"
+    hasVideo: true
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.600032
+      longitude: 114.520096
+    pkgposition: 74
+    pagenumber: 4
+    position: "22.595635,114.51454"
+  - poiId: 51937179
+    relativePosition: 75
+    businessId: 4629257
+    zoneName: "南澳"
+    poiName: "柚柑湾度假村"
+    commentCount: 27
+    commentScore: 3.9
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100g1f000001gqwoj68CE.jpg"
+    distanceStr: "距市中心45.1km"
+    tagNameList:
+      - "度假村"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/4629257.html?isHideNavBar=YES"
+    displayField: "南澳"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "有美丽天然海湾，沙白水清"
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.485834
+      longitude: 114.497045
+    pkgposition: 75
+    pagenumber: 4
+    position: "22.480056,114.490987"
+  - poiId: 22609835
+    relativePosition: 76
+    businessId: 1706689
+    zoneName: "龙岗中心区/大运新城"
+    poiName: "横岗侏罗纪冰雪乐园"
+    commentCount: 53
+    commentScore: 4
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100c0n000000e3islE4F8.jpg"
+    distanceStr: "距市中心18.1km"
+    tagNameList:
+      - "亲子同乐"
+      - "冰雪乐园"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/1706689.html?isHideNavBar=YES"
+    displayField: "龙岗中心区/大运新城"
+    marketPrice: 0
+    price: 29.9
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.648059
+      longitude: 114.203532
+    pkgposition: 76
+    pagenumber: 4
+    position: "22.642485,114.196917"
+  - poiId: 55921189
+    relativePosition: 77
+    businessId: 4977342
+    zoneName: "海岸城/后海"
+    poiName: "深圳人才公园"
+    commentCount: 170
+    commentScore: 4.7
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/100m170000012szrfE60C.jpg"
+    distanceStr: "距市中心11.8km"
+    tagNameList:
+      - "城市公园"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/4977342.html?isHideNavBar=YES"
+    displayField: "海岸城/后海"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "全国第一个人才主题公园"
+    hasVideo: true
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.516394
+      longitude: 113.95547
+    pkgposition: 77
+    pagenumber: 4
+    position: "22.510111,113.9486"
+  - poiId: 31661862
+    relativePosition: 78
+    businessId: 2029827
+    zoneName: "华侨城"
+    poiName: "白石洲商业步行街"
+    commentCount: 22
+    commentScore: 4.2
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/1A031h000001hr0rbA51F.jpg"
+    distanceStr: "距市中心9.2km"
+    tagNameList:
+      - "街区小镇"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/2029827.html?isHideNavBar=YES"
+    displayField: "华侨城"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.552113
+      longitude: 113.975015
+    pkgposition: 78
+    pagenumber: 4
+    position: "22.54572,113.96884"
+  - poiId: 10758831
+    relativePosition: 79
+    businessId: 133213
+    zoneName: "大小梅沙/东部华侨城"
+    poiName: "茵特拉根养生温泉"
+    commentCount: 532
+    commentScore: 4.3
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/0104v120005zydszf0676.jpg"
+    distanceStr: "距市中心24.4km"
+    tagNameList:
+      - "温泉"
+    otherTagList:
+      - type: "booking"
+        name: "可订今日"
+        code: "TodayCanBook"
+    poiType: 66
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/133213.html?isHideNavBar=YES"
+    displayField: "大小梅沙/东部华侨城"
+    marketPrice: 0
+    price: 118
+    priceType: "2"
+    priceTypeDesc: "门票"
+    isFree: false
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "含22座特色露天汤池"
+    hasVideo: true
+    childrenSightList: []
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.639063
+      longitude: 114.281295
+    pkgposition: 79
+    pagenumber: 4
+    position: "22.63314,114.274754"
+  - poiId: 25250546
+    relativePosition: 80
+    businessId: 1840140
+    zoneName: "华强北商业区"
+    poiName: "深圳科学馆"
+    commentCount: 122
+    commentScore: 4.5
+    isAdvertisement: false
+    isRecommend: true
+    districtId: 26
+    districtName: "深圳"
+    coverImageUrl: "https://youimg1.c-ctrip.com/target/10031f000001gs163F387.jpg"
+    distanceStr: "距市中心3.9km"
+    tagNameList:
+      - "科技天文馆"
+    poiType: 3
+    detailUrl: "https://m.ctrip.com/webapp/you/sight/26/1840140.html?isHideNavBar=YES"
+    displayField: "华强北商业区"
+    priceType: "4"
+    priceTypeDesc: "免费"
+    isFree: true
+    openStatus: ""
+    isFromFavor: false
+    shortFeatures:
+      - "趣味互动展示科学知识"
+    hasVideo: false
+    isCircuml: false
+    coordinate:
+      coordinateType: "BD09"
+      latitude: 22.548485
+      longitude: 114.102354
+    pkgposition: 80
+    pagenumber: 4
+    position: "22.542267,114.095788"
